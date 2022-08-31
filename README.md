@@ -1,2 +1,2 @@
-# MY UI
-UI Library
+# MYRUI
+React UI Library
