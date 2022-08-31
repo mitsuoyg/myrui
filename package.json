@@ -1,7 +1,7 @@
 {
-  "name": "@mitsuoyg/my-ui",
+  "name": "@mitsuoyg/myrui",
   "version": "0.0.1",
-  "description": "UI Library",
+  "description": "React UI Library",
   "main": "core",
   "files": [
     "core/**/*"
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mitsuoyg/my-ui.git"
+    "url": "git+https://github.com/mitsuoyg/myrui.git"
   },
   "author": "yshara.mitsuo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mitsuoyg/my-ui/issues"
+    "url": "https://github.com/mitsuoyg/myrui/issues"
   },
-  "homepage": "https://github.com/mitsuoyg/my-ui#readme",
+  "homepage": "https://github.com/mitsuoyg/myrui#readme",
   "devDependencies": {
     "@babel/core": "^7.18.13",
     "@babel/preset-env": "^7.18.10",
